@@ -92,7 +92,6 @@ def replace_book(isbn):
 @app.route('/books/<int:isbn>', methods=['PATCH'])
 def update_book(isbn):
     request_data = request.get_json()
-
     update_book = {}
     if "name" in request_data:
         update_book["name"] = request_data["name"]
@@ -105,6 +104,22 @@ def update_book(isbn):
             book.update(update_book)
     response = Response("", status_no_content)
     response.headers['Location'] = "/books/"+str(isbn)
+    return response
+
+
+@app.route('/books/<int:isbn>', methods=['DELETE'])
+def delete_book(isbn):
+    i = 0
+    for book in books:
+        if book["isbn"] == isbn:
+            books.pop(i)
+            response = Response("", status_no_content)
+            return response
+        i += 1
+    message = {
+        'error': 'Book with the ISBM number that was provided was not found'
+    }
+    response = Response(json.dumps(message), status_not_found, mimetype='application/json')
     return response
 
 
