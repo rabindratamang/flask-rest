@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d235d98-aedd-4b1d-a2f9-c0c7b0aa1c41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-    </list>
+    <list default="true" id="9d235d98-aedd-4b1d-a2f9-c0c7b0aa1c41" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+            <state relative-caret-position="232">
+              <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -125,12 +122,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562652469533</updated>
-      <workItem from="1562652473006" duration="16658000" />
+      <workItem from="1562652473006" duration="16835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16658000" />
+    <option name="totallyTimeSpent" value="16835000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -195,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+        <state relative-caret-position="232">
+          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>
