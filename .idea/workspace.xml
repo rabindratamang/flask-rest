@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d235d98-aedd-4b1d-a2f9-c0c7b0aa1c41" name="Default Changelist" comment="" />
+    <list default="true" id="9d235d98-aedd-4b1d-a2f9-c0c7b0aa1c41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+            <state relative-caret-position="157">
+              <caret line="102" column="22" lean-forward="true" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -95,6 +98,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -121,12 +125,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562652469533</updated>
-      <workItem from="1562652473006" duration="15726000" />
+      <workItem from="1562652473006" duration="15901000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15726000" />
+    <option name="totallyTimeSpent" value="15901000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="104" lean-forward="true" selection-start-line="104" selection-end-line="104" />
+        <state relative-caret-position="157">
+          <caret line="102" column="22" lean-forward="true" selection-start-line="102" selection-start-column="22" selection-end-line="102" selection-end-column="22" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>

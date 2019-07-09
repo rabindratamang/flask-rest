@@ -96,6 +96,10 @@ def update_book(isbn):
     update_book = {}
     if "name" in request_data:
         update_book["name"] = request_data["name"]
+
+    if "price" in request_data:
+        update_book["price"] = request_data["price"]
+
     for book in books:
         if book["isbn"] == isbn:
             book.update(update_book)
